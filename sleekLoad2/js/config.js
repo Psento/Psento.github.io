@@ -17,7 +17,7 @@ var l_serverName = "404 Community | Dark RP | DEVELOPMENT";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
@@ -50,9 +50,19 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/ID1.png",
+	"backgrounds/images/ID2.png",
+	"backgrounds/images/ID3.png",
+	"backgrounds/images/ID4.png",
+	"backgrounds/images/ID5.png",
+	"backgrounds/images/ID6.png",
+	"backgrounds/images/ID7.png",
+	"backgrounds/images/ID8.png",
+	"backgrounds/images/ID9.png",
+	"backgrounds/images/ID10.png",
+	"backgrounds/images/ID11.png",
+	"backgrounds/images/ID12.png",
+	"backgrounds/images/ID13.png"
 ];
 
 /*Random background images order?*/
@@ -109,7 +119,7 @@ var l_musicPlaylist = [
 	{youtube: "4wvMsaZoW4c", name: "DIAMOND EYES - SEMPITERNAL MONSTERS"},
 	{youtube: "cBx5St5PQXc", name: "FRAKSHA x ALEX JONES x SCOTTY HINDS - TOGETHER"},
 	{youtube: "FBZckI6Jh3w", name: "LIL PEEP - STAR SHOPPING (OSIAS & KIRAW REMIX)"},
-	{youtube: "LaH9b6Lqwzo", name: "PANIC! AT THE DISCO - MISS JACKSON"},
+	{youtube: "mSKjLs24ND4", name: "PANIC! AT THE DISCO - MISS JACKSON"},
 	{youtube: "7I34zOUZCXM", name: "PANIC! AT THE DISCO - DON'T THREATEN ME WITH A GOOD TIME"},
 	{youtube: "T0-T-Im9-uo", name: "NOTORIOUS B.I.G - EVERYDAY STRUGGLE (L'INDÉCIS REMIX)"},
 	{youtube: "58HQeed8Vhg", name: "WU-TANG CLAN - BACK IN THE GAME (PHONIKS REMIX)"},
@@ -127,7 +137,7 @@ var l_musicPlaylist = [
 	{youtube: "nFZP8zQ5kzk", name: "ALOE BLACC - I NEED A DOLLAR"},
 	{youtube: "FtvB5yj-yvw", name: "2PAC FT. EMINEM - LAST KINGS"},
 	{youtube: "coABxYznCmE", name: "HIPPY SABOTAGE - YOUR SOUL"},
-	{youtube: "mQYJYY4VkWA", name: "THE OFFSPRING - WHY DON'T YOU GET A JOB"},
+	{youtube: "RhalnCwP82s", name: "THE OFFSPRING - WHY DON'T YOU GET A JOB"},
 	{youtube: "ysho2xTWUYo", name: "THREE DAYS GRACE - ANIMAL I HAVE BECOME"},
 	{youtube: "0n0NqlDXyhI", name: "CHILL & RELAX - UPPERMOST"},
 	{youtube: "D4INE2zO9OU", name: "RED HOT CHILLI PEPPERS - CAN'T STOP"},
@@ -162,7 +172,7 @@ var l_musicPlaylist = [
 	{youtube: "fxeAVT__bY8", name: "ABSTRACT - I DO THIS (FEAT. ROZE)"},,
 	{youtube: "s3Oyagx8Stw", name: "HENDERSIN - IN LOVE"},
 	{youtube: "m2kaDZwoE-4", name: "TERROR REID - KRYLON FEAT. ELIOZIE"},
-	{youtube: "T3E9Wjbq44E", name: "GYM CLASS HEROES: STEREO HEARTS FT. ADAM LEVINE"},
+	{youtube: "f3RVootcD4w", name: "GYM CLASS HEROES: STEREO HEARTS FT. ADAM LEVINE"},
 	{youtube: "iNaIgsnSG1w", name: "BENEE - SOAKED"},
 	{youtube: "u1FXa2UDxoc", name: "JAKE HILL - RIP X (FEAT. MISHAAL)"},
 	{youtube: "5aduiLwOb70", name: "SOUND OF WALKING AWAY x DIVINITY x SHELTER"},
@@ -171,7 +181,7 @@ var l_musicPlaylist = [
 	{youtube: "J9Zjgb03FMQ", name: "ILLENIUM, JON BELLION - GOOD THINGS FALL APART"},
 	{youtube: "4eaXoebXKfY", name: "POWFU - DEATH BED"},
 	{youtube: "73_KEAYcgIk", name: "SCARS ON MY HEART (FEAT. SADBOYPROLIFIC)"},
-	{youtube: "Cjq0qW9MR4Q", name: "STEVIE WONDER - MASTERBLASTER (PROLETER TRIBUTE)"},
+	{youtube: "44F34jc7wGI", name: "STEVIE WONDER - MASTERBLASTER (PROLETER TRIBUTE)"},
 	{youtube: "-T7eYmbnBeM", name: "PROLETER - AFTERWORD (FEAT. TASKROK)"},
 	{youtube: "4KPw0EhUWA8", name: "ANTHEM - EMANCIPATOR"},
 	{youtube: "XfSbwzE8vv0", name: "HEX COUGAR - HOW DOES IT FEEL"},
