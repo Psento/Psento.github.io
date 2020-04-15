@@ -181,7 +181,7 @@ var l_musicPlaylist = [
 	{youtube: "J9Zjgb03FMQ", name: "ILLENIUM, JON BELLION - GOOD THINGS FALL APART"},
 	{youtube: "4eaXoebXKfY", name: "POWFU - DEATH BED"},
 	{youtube: "73_KEAYcgIk", name: "SCARS ON MY HEART (FEAT. SADBOYPROLIFIC)"},
-	{youtube: "44F34jc7wGI", name: "STEVIE WONDER - MASTERBLASTER (PROLETER TRIBUTE)"},
+	{youtube: "Cjq0qW9MR4Q", name: "STEVIE WONDER - MASTERBLASTER (PROLETER TRIBUTE)"},
 	{youtube: "-T7eYmbnBeM", name: "PROLETER - AFTERWORD (FEAT. TASKROK)"},
 	{youtube: "4KPw0EhUWA8", name: "ANTHEM - EMANCIPATOR"},
 	{youtube: "XfSbwzE8vv0", name: "HEX COUGAR - HOW DOES IT FEEL"},
